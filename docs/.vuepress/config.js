@@ -15,10 +15,17 @@ module.exports = {
 		sidebar: {
 			"/blog/":[
 				{
-					title: '测试1',
+					title: 'linux',
 					collapsable: false,
 					children: [
-						"loadsh"
+						"linux"
+					]
+				},
+				{
+					title: 'vue',
+					collapsable: false,
+					children: [
+						"vue"
 					]
 				},
 				{
